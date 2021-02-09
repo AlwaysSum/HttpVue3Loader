@@ -1,5 +1,5 @@
-# HttpVue3Loader
-HttpVueLoader 的 Vue 3.0修正
+# http-vue3-loader
+http-vue-loader 的 Vue 3.0修正
 
 #一个可以远程加载vue组件的库
 Vue2.x版本的作者地址：https://github.com/FranckFreiburger/http-vue-loader
